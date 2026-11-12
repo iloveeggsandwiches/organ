@@ -1,0 +1,17 @@
+{
+    "music": [
+        "cassette",
+        "cd",
+        "vinyl",
+        "8-track",
+        "digital",
+        "digital-drm"
+    ],
+    "movies": [
+        "dvd",
+        "VHS",
+        "blu-ray", 
+        "digital",
+        "digital-drm"
+    ]
+}
